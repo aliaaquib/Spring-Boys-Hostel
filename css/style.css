@@ -106,7 +106,7 @@ header ul li a {
 }
 
 header ul li a:hover {
-  color: #000;
+  color: #00ffe1;
 }
 
 header .head_contact {
@@ -281,6 +281,9 @@ button {
   border: none;
   border-radius: 30px;
 }
+/* button:hover {
+  background: #00ffe1;
+} */
 
 button i {
   margin-left: 20px;
